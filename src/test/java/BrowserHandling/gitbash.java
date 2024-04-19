@@ -1,6 +1,6 @@
 package BrowserHandling;
 
-public class gitbranch {
+public class gitbash {
 
 	public static void main(String[] args) 
 	{

@@ -31,6 +31,16 @@
       <version>5.7.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>Sample</groupId>
+    	<artifactId>Demo</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+    	<groupId>TYSS</groupId>
+    	<artifactId>Fiducia_sales</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <build>
