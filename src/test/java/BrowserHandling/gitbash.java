@@ -1,13 +1,24 @@
 package BrowserHandling;
 
-public class gitbash {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) 
+public class gitbash
+{
+	
+	
+	@Test
+	public void apple()
 	{
 		System.out.println("Vande Mataram");
 		System.out.println("Vande Bharat");
 		
 
 	}
+	@Test
+	public void boll()
+	{
+		System.out.println("i love india");
+	}
+	
 
 }
